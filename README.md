@@ -7,7 +7,7 @@ Hai developer keren Indonesia!
 
   Setiap perbaikan maupun penambahan fitur yang kami setujui untuk kami pakai di live/production site, akan kami berikan reward yang sepadan (sesuai keuangan kami saat ide Anda kami setujui). Untuk gambaran, kami membebani tiap user aktif dengan biaya langganan layanan sebesar Rp. 25,000 per bulan. Jadi semakin besar base-user kami, maka makin besar pula reward yang akan Anda dapat. 
 
-  Kami juga sekumpulan developer dan desainer yang bahu membahu berusaha membangun portal yang dapat dijadikan sarana bagi UMKM di Indonesia agar dapat stand-out atau bahkan bersaing dengan kompetitor-kompetitor besar mereka. Itu kenapa kami sangat menghargai setiap kode yang Anda push ke kami, dan kami tahu pasti berapa lama waktu yang harus Anda keluarkan untuk membantu kami membuat layanan yang bagus dan mudah lagi bermanfaat. Sehingga kami tidak akan main-main saat harus memberikan reward atas hasil kerja Anda. 
+  Kami juga sekumpulan developer dan desainer yang bahu membahu berusaha membangun portal yang dapat dijadikan sarana bagi UMKM di Indonesia agar dapat stand-out bahkan bersaing menghadapi era perdagangan bebas ASEAN atau AFTA 2015. Itu kenapa kami sangat menghargai setiap kode yang Anda push ke kami, dan kami tahu pasti berapa lama waktu yang harus Anda keluarkan untuk membantu kami membuat layanan yang bagus dan mudah lagi bermanfaat. Sehingga kami tidak akan main-main saat harus memberikan reward atas hasil kerja Anda. 
 Bila kami rasa kami belum mampu memberikan kompensasi yang sesuai maka fitur Anda belum akan kami pakai.
 
   Jadi, mulailah bantu kami wujudkan mimpi kami. Bersama kita bisa membangun sesuatu yang berguna bagi perekonomian bangsa ini. Keep up the good work!
