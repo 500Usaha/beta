@@ -13,6 +13,7 @@ Bila kami rasa kami belum mampu memberikan kompensasi yang sesuai maka fitur And
   Jadi, mulailah bantu kami wujudkan mimpi kami. Bersama kita bisa membangun sesuatu yang berguna bagi perekonomian bangsa ini. Keep up the good work!
   
   
--- Developer 500Usaha.
-<a href="https://github.com/maswewe">Wawan B. Setyawan</a>
-You
+Respect,
+<b>Developer 500Usaha :</b>
+<br><br><a href="https://github.com/maswewe">Wawan B. Setyawan</a>
+<br>You?
