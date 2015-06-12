@@ -1,4 +1,4 @@
-# beta
+# 500Usaha.com
 Repository of Beta version for http://500usaha.com
 
 Hai developer keren Indonesia!
